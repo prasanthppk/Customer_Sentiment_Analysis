@@ -1,6 +1,8 @@
 # Customer_Sentiment_Analysis
 CSAT Prediction and Recommendation Engine
 
+Download or Review: <a href="Customer_Sentiment_Analysis.ipynb">Customer_Sentiment_Analysis.ipynb</a>
+
 # **Summary**
 - Cleaned raw text and categorized in 3 reviews such as cleaned_review, Processed_review and Lemma_review. Finally considered lemma_review for further process as it filters entire text in to crisp and noun format by removing stop words (the, is, etc.), exclamatory symbols, pull stops, etc.
 - Extracted weighted scores from different models such as Vader, Textblob and BERT. Compared all three and found BERT score gives accurate prediction as it is associated with external documents and provide scores.
