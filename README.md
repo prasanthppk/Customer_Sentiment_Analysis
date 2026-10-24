@@ -20,15 +20,21 @@ CSAT Prediction and Recommendation Engine
 #  Testing with Random feedback text, which is not trained
 ## Example 1
 **User Input Text:** My baggage arrived late and no one responded properly
-**Demo:**
+<div>
+<p>**Demo:**</p>
 <img width="815" height="412" alt="image" src="https://github.com/user-attachments/assets/eee87710-d110-472d-80be-e02f2ed3c723" />
+</div>
 
 ## Example 2
 **User Input Text:** Payment system failing frequently
-**Demo:**
+<div>
+<p>**Demo:**</p>
 <img width="810" height="412" alt="image" src="https://github.com/user-attachments/assets/c06c2b82-ca92-4ac0-885a-9339691c6f2a" />
+</div>
 
 ## Example 3
 **User Input Text:** Payment system failing frequently
-**Demo:**
+<div>
+<p>**Demo:**</p>
 <img width="807" height="407" alt="image" src="https://github.com/user-attachments/assets/0583aa43-2545-4382-b66d-d69592dee421" />
+</div>
